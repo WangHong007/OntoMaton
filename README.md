@@ -1,9 +1,10 @@
 <div align="center">
-<img src="http://isatab.sf.net/assets/img/tools/ontomaton.png" align="center"/>
+<img src="https://github.com/ISA-tools/OntoMaton/blob/master/figures/ontomaton.png" align="center"/>
 </div>
 
 <br/>
 
+Version 4: [![DOI](https://zenodo.org/badge/DOI/10/5281/zenodo.5227312.svg)](https://doi.org/10.5281/zenodo.5227312)
 
 
 Version 3: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.221457.svg)](https://doi.org/10.5281/zenodo.221457)
